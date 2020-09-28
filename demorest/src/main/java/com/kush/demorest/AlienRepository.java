@@ -23,7 +23,7 @@ public class AlienRepository {
 		a2.setName("Shivam");
 		a2.setPoints(69);
 		
-		aliens.add(a1);
+		aliens.add(a1)
 		aliens.add(a2);
 		
 	}
